@@ -6,7 +6,6 @@
               {
               Email = "alena1211m@gmail.com";
               LinkedIn = "https://www.linkedin.com/in/helen-grigorieva-5ab039214";
-              Telegram = "+38-068-246-73-41";
               }
 
 <!---
